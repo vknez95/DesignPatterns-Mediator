@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/bin/Debug/netcoreapp2.0/AirTrafficControl.deps.json
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/bin/Debug/netcoreapp2.0/AirTrafficControl.runtimeconfig.json
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/bin/Debug/netcoreapp2.0/AirTrafficControl.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/bin/Debug/netcoreapp2.0/AirTrafficControl.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/bin/Debug/netcoreapp2.0/AirTrafficControl.pdb
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/obj/Debug/netcoreapp2.0/AirTrafficControl.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/obj/Debug/netcoreapp2.0/AirTrafficControl.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/obj/Debug/netcoreapp2.0/AirTrafficControl.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/obj/Debug/netcoreapp2.0/AirTrafficControl.dll
+/Users/vknez/Documents/Programming/DesignPatterns/Mediator/AirTrafficControl/obj/Debug/netcoreapp2.0/AirTrafficControl.pdb
